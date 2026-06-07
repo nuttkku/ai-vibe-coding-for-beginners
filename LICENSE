@@ -1,52 +1,70 @@
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
+Dual License — Vibe Coding for Beginners
 Copyright (c) 2026 Wanut Padee (wanut@kku.ac.th)
 
 =======================================================================
 สรุปสำหรับผู้ใช้งาน (ภาษาไทย)
 =======================================================================
 
-หลักสูตรนี้เผยแพร่ภายใต้สัญญาอนุญาต CC BY-NC-SA 4.0
-ซึ่งอนุญาตให้ทำสิ่งต่อไปนี้ได้ฟรี:
+หลักสูตรนี้ใช้สัญญาอนุญาต 2 แบบ แยกตามประเภทของเนื้อหา:
+
+  📄 เนื้อหาและเอกสาร (README, LAB, slide.md ฯลฯ)
+     → สัญญาอนุญาต CC BY-NC-SA 4.0
+
+  💻 ตัวอย่างโค้ด (HTML, CSS, JavaScript, Dockerfile ฯลฯ)
+     → สัญญาอนุญาต MIT License
+
+─────────────────────────────────────────────────────────────────────
+
+📄 CC BY-NC-SA 4.0 — สำหรับเนื้อหาและเอกสาร
+─────────────────────────────────────────────────────────────────────
 
 ✅ อนุญาต:
    - นำไปใช้สอนในชั้นเรียน โรงเรียน หรือสถาบันการศึกษา
    - แบ่งปันให้เพื่อนครูหรือผู้สนใจ
    - ดัดแปลงและปรับให้เหมาะกับบริบทของตัวเอง
-   - อ้างอิงในงานวิชาการหรือสื่อการสอน
 
 ❌ ไม่อนุญาต:
    - นำไปขายหรือใช้เพื่อผลประโยชน์เชิงพาณิชย์
    - เผยแพร่ซ้ำโดยไม่ให้เครดิตต้นฉบับ
-   - เปลี่ยนสัญญาอนุญาตเมื่อนำไปดัดแปลง
 
 📌 เงื่อนไข:
    - ต้องระบุชื่อผู้สร้างต้นฉบับเสมอ
-   - งานดัดแปลงต้องใช้สัญญาอนุญาตเดียวกัน (CC BY-NC-SA)
+   - งานดัดแปลงต้องใช้สัญญาอนุญาตเดียวกัน
 
-=======================================================================
-ข้อสงวนสิทธิ์และข้อจำกัดความรับผิดชอบ
-=======================================================================
+─────────────────────────────────────────────────────────────────────
 
-⚠️  หลักสูตรนี้จัดทำขึ้นเพื่อการศึกษาและเป็นแนวทางเบื้องต้นเท่านั้น
+💻 MIT License — สำหรับตัวอย่างโค้ด
+─────────────────────────────────────────────────────────────────────
 
-    - เนื้อหาในหลักสูตรนี้เป็นจุดเริ่มต้นสำหรับผู้ที่ต้องการเรียนรู้
-      การสร้างแอปพลิเคชันด้วย AI ไม่ใช่เอกสารอ้างอิงขั้นสูง
+✅ อนุญาต:
+   - นำโค้ดตัวอย่างไปใช้งาน แก้ไข หรือนำไปต่อยอดได้เสรี
+   - ใช้ในโปรเจกต์ส่วนตัว การศึกษา หรือเชิงพาณิชย์
+   - แบ่งปันต่อโดยไม่ต้องขออนุญาต
 
-    - เครื่องมือและซอฟต์แวร์ที่กล่าวถึงในหลักสูตร อาจมีการอัปเดต
-      เวอร์ชัน ขั้นตอน หรือหน้าตาที่เปลี่ยนแปลงไปจากที่ระบุในเอกสาร
+📌 เงื่อนไข:
+   - ต้องระบุ copyright notice เดิมไว้ในโค้ดที่นำไปใช้
 
-    - ผู้สร้างหลักสูตรไม่รับผิดชอบต่อความเสียหายใดๆ ที่อาจเกิดขึ้น
-      จากการนำเนื้อหาไปใช้งาน
+─────────────────────────────────────────────────────────────────────
 
-    - ขอแนะนำให้ผู้เรียนศึกษาเอกสารทางการของแต่ละเครื่องมือเพิ่มเติม
-      เพื่อความเข้าใจที่ครบถ้วนและเป็นปัจจุบัน
+⚠️  ข้อสงวนสิทธิ์ — อ่านก่อนใช้งาน
+─────────────────────────────────────────────────────────────────────
+
+หลักสูตรนี้จัดทำขึ้นเพื่อการศึกษาและเป็นแนวทางเบื้องต้นเท่านั้น
+
+  - เนื้อหาเป็นจุดเริ่มต้นสำหรับผู้เริ่มต้น ไม่ใช่เอกสารอ้างอิงขั้นสูง
+  - เครื่องมือที่กล่าวถึงอาจมีการอัปเดตจนขั้นตอนเปลี่ยนแปลงไป
+  - ผู้สร้างไม่รับผิดชอบต่อความเสียหายจากการนำเนื้อหาไปใช้
+  - แนะนำให้ศึกษาเอกสารทางการของแต่ละเครื่องมือเพิ่มเติม
 
 =======================================================================
 Full License Text (English)
 =======================================================================
 
-This work is licensed under the Creative Commons
+PART 1 — Documentation & Educational Content: CC BY-NC-SA 4.0
+──────────────────────────────────────────────────────────────
+
+All documentation, course materials, LAB guides, and non-code files
+in this repository are licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You are free to:
@@ -54,15 +72,34 @@ You are free to:
   Adapt  — remix, transform, and build upon the material
 
 Under the following terms:
-  Attribution      — You must give appropriate credit, provide a link
-                     to the license, and indicate if changes were made.
-  NonCommercial    — You may not use the material for commercial purposes.
-  ShareAlike       — If you remix, transform, or build upon the material,
-                     you must distribute your contributions under the
-                     same license as the original.
+  Attribution    — You must give appropriate credit and indicate changes.
+  NonCommercial  — You may not use the material for commercial purposes.
+  ShareAlike     — Adaptations must carry the same license.
 
-No additional restrictions — You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.
+Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+──────────────────────────────────────────────────────────────────────
+
+PART 2 — Code Examples: MIT License
+──────────────────────────────────────────────────────────────────────
+
+All code examples (HTML, CSS, JavaScript, Dockerfile, etc.)
+are licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files, to deal
+in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

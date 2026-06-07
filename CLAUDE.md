@@ -100,7 +100,39 @@
 
 ---
 
+## สัญญาอนุญาต (License)
+
+หลักสูตรนี้ใช้ **Dual License**:
+
+| เนื้อหา | สัญญาอนุญาต |
+|---|---|
+| เอกสาร, LAB guides, slide.md | CC BY-NC-SA 4.0 — ใช้สอนได้ฟรี ห้ามขาย |
+| ตัวอย่างโค้ด HTML/CSS/JS/Dockerfile | MIT License — ใช้ได้เสรี |
+
+ข้อสงวนสิทธิ์: เนื้อหาเป็นแนวทางเบื้องต้นเท่านั้น ไม่ใช่เอกสารอ้างอิงขั้นสูง
+
+---
+
+## Credits
+
+| เครื่องมือ | ผู้พัฒนา | License |
+|---|---|---|
+| VS Code | Microsoft | MIT |
+| Cline | saoudrizwan | Apache 2.0 |
+| Ollama | Ollama Inc. | MIT |
+| Docker Desktop | Docker Inc. | Docker Subscription SA |
+| GitHub Desktop | GitHub / Microsoft | MIT |
+| Qwen2.5-Coder:7b | Alibaba Cloud | Qwen License |
+
+---
+
 ## การเปลี่ยนแปลงล่าสุด
+
+### 2026-06-07 — อัปเดต License, Credits, README และ slide.md
+- **อัปเดต** `LICENSE` — เปลี่ยนเป็น Dual License (CC BY-NC-SA 4.0 + MIT) พร้อม disclaimer ภาษาไทย
+- **อัปเดต** `README.md` — ปรับหน้าตาให้เป็น landing page สวยงาม มี badges, emoji, หลักการ 3 ข้อ, Credits
+- **อัปเดต** `slide.md` — ขยายจาก 16 เป็น 80 สไลด์ แทรกหลักการแต่ละ LAB ครบ
+- **เพิ่ม** ส่วน Credits ใน README.md ให้เครดิตเครื่องมือทุกตัว
 
 ### 2026-06-07 — สร้าง LAB ทั้งหมด 8 ชุด
 - **เพิ่ม** `LAB-01-SETUP/README.md` — คู่มือติดตั้งทีละขั้นตอน รวม WSL2, Docker, Ollama pull
@@ -111,8 +143,7 @@
 - **เพิ่ม** `LAB-06-DOCKER/README.md` — แนวคิด + Dockerfile + Build + Run + Docker Desktop UI
 - **เพิ่ม** `LAB-07-FEEDBACK-APP/README.md` — Workshop เต็มรูปแบบ สร้างจาก Prompt วางแผน → HTML → CSS → JS → Docker → Commit
 - **เพิ่ม** `LAB-08-DEBUG-ROLLBACK/README.md` — ฝึก Debug + ฝึก Revert Commit ด้วย GitHub Desktop
-- **เพิ่ม** `WORKSHOP-AGENDA.md` — ตาราง Agenda รวม (ยุบรวมใน README.md แล้ว)
-- **อัพเดต** `README.md` — รวม Agenda เข้ามา ปรับให้เป็นคู่มือหลัก
+- **อัปเดต** `README.md` — รวม Agenda เข้ามา ปรับให้เป็นคู่มือหลัก
 
 ---
 

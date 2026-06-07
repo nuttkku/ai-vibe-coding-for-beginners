@@ -208,11 +208,52 @@ Prompt ที่ดีมี 3 ส่วน:
 
 ---
 
+## 🙏 Credits & Acknowledgements
+
+หลักสูตรนี้ใช้เครื่องมือและเทคโนโลยีจากองค์กรต่อไปนี้ ขอขอบคุณทุกทีมที่สร้างสิ่งเหล่านี้ขึ้นมาให้ใช้งานฟรี
+
+### 🛠️ เครื่องมือหลัก
+
+| เครื่องมือ | ผู้พัฒนา | สัญญาอนุญาต | ลิงก์ |
+|---|---|---|---|
+| **VS Code** | Microsoft | MIT License (ฟรี, Open Source) | [code.visualstudio.com](https://code.visualstudio.com) |
+| **Cline** | saoudrizwan | Apache 2.0 (ฟรี, Open Source) | [github.com/cline/cline](https://github.com/cline/cline) |
+| **Ollama** | Ollama Inc. | MIT License (ฟรี, Open Source) | [ollama.com](https://ollama.com) |
+| **Docker Desktop** | Docker Inc. | Docker Subscription Service Agreement | [docker.com](https://docker.com/products/docker-desktop) |
+| **GitHub Desktop** | GitHub / Microsoft | MIT License (ฟรี, Open Source) | [desktop.github.com](https://desktop.github.com) |
+
+### 🤖 AI Model
+
+| Model | ผู้พัฒนา | สัญญาอนุญาต | ลิงก์ |
+|---|---|---|---|
+| **Qwen2.5-Coder:7b** | Alibaba Cloud (Tongyi Qianwen Team) | Qwen License (ฟรีสำหรับการศึกษา) | [huggingface.co/Qwen](https://huggingface.co/Qwen) |
+
+### 📌 หมายเหตุ
+
+- Docker Desktop ฟรีสำหรับการใช้งานส่วนตัว การศึกษา และองค์กรขนาดเล็ก (< 250 คน / รายได้ < $10M) ดูรายละเอียดที่ [docker.com/pricing](https://docker.com/pricing)
+- Qwen2.5-Coder อนุญาตให้ใช้งานเพื่อการศึกษาและวิจัยได้ฟรี ดูรายละเอียดที่ [Qwen License](https://huggingface.co/Qwen/Qwen2.5-Coder-7B/blob/main/LICENSE)
+- เครื่องมืออื่นทั้งหมดเป็น Open Source ใช้งานได้ฟรีไม่มีเงื่อนไข
+
+---
+
+## 📄 สัญญาอนุญาต
+
+เนื้อหาในหลักสูตรนี้เผยแพร่ภายใต้ **[CC BY-NC-SA 4.0](./LICENSE)**
+
+- ✅ ใช้สอนในชั้นเรียนได้ฟรี
+- ✅ แบ่งปันและดัดแปลงได้ โดยให้เครดิตต้นฉบับ
+- ❌ ห้ามนำไปขายหรือใช้เชิงพาณิชย์
+- ⚠️ หลักสูตรนี้เป็นแนวทางเบื้องต้นเท่านั้น ไม่ใช่เอกสารอ้างอิงขั้นสูง
+
+---
+
 <div align="center">
 
 **สร้างด้วย ❤️ สำหรับครูไทยทุกท่าน**
 
 *"การเขียนโปรแกรมในยุคใหม่ไม่ใช่การท่องจำคำสั่ง*  
 *แต่คือการรู้จักสื่อสารกับ AI ให้ชัดเจน"*
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](./LICENSE)
 
 </div>

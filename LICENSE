@@ -1,21 +1,68 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright (c) 2026 Wanut Padee
+Copyright (c) 2026 Wanut Padee (wanut@kku.ac.th)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+=======================================================================
+สรุปสำหรับผู้ใช้งาน (ภาษาไทย)
+=======================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+หลักสูตรนี้เผยแพร่ภายใต้สัญญาอนุญาต CC BY-NC-SA 4.0
+ซึ่งอนุญาตให้ทำสิ่งต่อไปนี้ได้ฟรี:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+✅ อนุญาต:
+   - นำไปใช้สอนในชั้นเรียน โรงเรียน หรือสถาบันการศึกษา
+   - แบ่งปันให้เพื่อนครูหรือผู้สนใจ
+   - ดัดแปลงและปรับให้เหมาะกับบริบทของตัวเอง
+   - อ้างอิงในงานวิชาการหรือสื่อการสอน
+
+❌ ไม่อนุญาต:
+   - นำไปขายหรือใช้เพื่อผลประโยชน์เชิงพาณิชย์
+   - เผยแพร่ซ้ำโดยไม่ให้เครดิตต้นฉบับ
+   - เปลี่ยนสัญญาอนุญาตเมื่อนำไปดัดแปลง
+
+📌 เงื่อนไข:
+   - ต้องระบุชื่อผู้สร้างต้นฉบับเสมอ
+   - งานดัดแปลงต้องใช้สัญญาอนุญาตเดียวกัน (CC BY-NC-SA)
+
+=======================================================================
+ข้อสงวนสิทธิ์และข้อจำกัดความรับผิดชอบ
+=======================================================================
+
+⚠️  หลักสูตรนี้จัดทำขึ้นเพื่อการศึกษาและเป็นแนวทางเบื้องต้นเท่านั้น
+
+    - เนื้อหาในหลักสูตรนี้เป็นจุดเริ่มต้นสำหรับผู้ที่ต้องการเรียนรู้
+      การสร้างแอปพลิเคชันด้วย AI ไม่ใช่เอกสารอ้างอิงขั้นสูง
+
+    - เครื่องมือและซอฟต์แวร์ที่กล่าวถึงในหลักสูตร อาจมีการอัปเดต
+      เวอร์ชัน ขั้นตอน หรือหน้าตาที่เปลี่ยนแปลงไปจากที่ระบุในเอกสาร
+
+    - ผู้สร้างหลักสูตรไม่รับผิดชอบต่อความเสียหายใดๆ ที่อาจเกิดขึ้น
+      จากการนำเนื้อหาไปใช้งาน
+
+    - ขอแนะนำให้ผู้เรียนศึกษาเอกสารทางการของแต่ละเครื่องมือเพิ่มเติม
+      เพื่อความเข้าใจที่ครบถ้วนและเป็นปัจจุบัน
+
+=======================================================================
+Full License Text (English)
+=======================================================================
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You are free to:
+  Share  — copy and redistribute the material in any medium or format
+  Adapt  — remix, transform, and build upon the material
+
+Under the following terms:
+  Attribution      — You must give appropriate credit, provide a link
+                     to the license, and indicate if changes were made.
+  NonCommercial    — You may not use the material for commercial purposes.
+  ShareAlike       — If you remix, transform, or build upon the material,
+                     you must distribute your contributions under the
+                     same license as the original.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing
+anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
